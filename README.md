@@ -1,10 +1,6 @@
 Hello, Folks! 👋
 
-I am Raman Tehlan(RT). I have a passion for building scalable and distributed systems. I also like creating Open-Source projects, find it on [github](https://github.com/ramantehlan). 
-
-I was previously involved in organizing PyData Delhi and helping other organizations like ILUGD(India Linux User Group Delhi). 
-
-I blog once in a while, at [ramantehlan.github.io/blog](https://ramantehlan.github.io/blog). Where I cover topics like distributed systems, databases, and other things that I find interesting.
+I am Raman Tehlan(RT). I have a passion for building scalable and distributed systems. I also like creating Open-Source projects. I was previously involved in organizing PyData Delhi and helping other organizations like ILUGD(India Linux User Group Delhi). I blog once in a while, at [ramantehlan.github.io/blog](https://ramantehlan.github.io/blog). Where I cover topics like distributed systems, databases, and other things that I find interesting.
 
 
 ### Skills 🛠️
