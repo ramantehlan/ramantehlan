@@ -14,6 +14,8 @@ I am Raman Tehlan(RT). I have a passion for building scalable and distributed sy
 | Databases | MongoDB, Redis, PostgreSQL |
 | Messaging Brokers | Kafka, PubSub, NATs |
 | BigData | Airflow, Jupyter, Redash, BigQuery |
+| Archetectures | Microservices, Hexagonal, MVC |
+| Other | REST, gRPC, WebHooks, WebSockets |
 
 ### I am currently learning 🌱 
 - Database Internals
