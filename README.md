@@ -1,6 +1,8 @@
 Hello, Folks! 👋
 
-I am Raman Tehlan(RT). I have a passion for building scalable and distributed systems. I also like creating Open-Source projects. I was previously involved in organizing PyData Delhi and helping other organizations like ILUGD(India Linux User Group Delhi). I blog once in a while, at [ramantehlan.github.io/blog](https://ramantehlan.github.io/blog). Where I cover topics like distributed systems, databases, and other things that I find interesting.
+I am Raman Tehlan(RT). I have a passion for building scalable and distributed systems and creating Open-Source projects. I was previously involved in organizing PyData Delhi and helping other organizations like ILUGD(India Linux User Group Delhi). I blog once in a while, at [ramantehlan.github.io/blog](https://ramantehlan.github.io/blog). Where I cover topics like distributed systems, databases, and other things that I find interesting.
+
+I am currently working at [StockGro](https://stockgro.club), I joined it in 2020 as a founding member and helped scale it from 0 to 1. I am also a Google Summer of Code 2020 student, where I worked on [nteract - NumFOCUS](https://summerofcode.withgoogle.com/archive/2020/projects/4967515626668032), created a webapp for helping data scientiest and engineers make their notebooks reproducable, by providing providing a github link to their notebooks, and the webapp would deploy them in a docker and allow anyone to interact with them using a notebook like interface. Before that, I have worked at companies like IBM Research, Udactiy etc.
 
 
 ### Skills 🛠️
