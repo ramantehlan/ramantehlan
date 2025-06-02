@@ -27,7 +27,8 @@ I am currently working at [StockGro](https://stockgro.club), I joined it in 2020
 ### Work experience 👔
 | Job Position           | Company         |  Work Period       |
 | ---------------------- | --------------- |  ----------------- |
-| **All Things Tech**         | **Stockgro**                    |  **Oct 2020 — now** |
+| **Cloud Native Consulting** | **Zurich Lab** | **Feb 2024 - Now** |
+| SDE-III        | Stockgro                    |  Oct 2020 — Jan 2024 |
 | Software Engineer Intern    | Google Summer of Code, NumFOCUS |  May 2020 — Aug 2020 |
 | Student Researcher          | IBM Research                    |  Mar 2020 — May 2020 |
 | Full Stack Engineer Intern  | Timeless Ventures               |  Jun 2019 — Sep 2019 |
